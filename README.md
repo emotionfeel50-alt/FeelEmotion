@@ -13,15 +13,23 @@ Su objetivo es ayudar a los usuarios a registrar emociones, monitorear su estado
 - Apartado de localización para ver hospitales, centros de salud y MINED que estén cerca del usuario para mayor comodidad y atención rápida.
 - Apartado donde el usuario pueda ver un diagnóstico según sus sintomas.
 - Personalización de perfil con foto de fondo y perfil para hacer más atractiva visualmente.
-- Apartado de avances (por ahora solo registrar cuantos pasos ha dado)
+- Apartado de avances (por ahora solo registrar cuantos pasos ha dado).
+- Apartado para registrar su emoción del día.
+- Pantalla de configuración.
+- Apartado de Acerca de FeelEmotion.
+- Apartado de ayuda al usuario.
+- Apartado de contáctanos para preguntas y reportar errores.
+- Apartado de donaciones.
+- Apartado de privacidad y seguridad.
+  
 
 ---
 
 ## 🛠️ Tecnologías utilizadas
-- MIT App Inventor  
-- Google Sheets (base de datos)  
+- MIT App Inventor
+- Googlesheets  
 - TinyBD  
-- GitHub (control de versiones)  
+- GitHub
 
 ---
 
